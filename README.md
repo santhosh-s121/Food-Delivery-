@@ -1,4 +1,4 @@
-# 🍕 FoodHub - Premium Food Ordering Web Application
+#  Food Ordering Web Application
 
 A modern, fully responsive food ordering web application built with React.js and Vite. Features a clean, professional design with smooth animations and an attractive UI.
 
@@ -6,19 +6,19 @@ A modern, fully responsive food ordering web application built with React.js and
 ![Vite](https://img.shields.io/badge/Vite-7.3.1-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ✨ Features
+##  Features
 
-- **🎨 Premium Design**: Modern UI with gradient backgrounds, glassmorphism effects, and smooth animations
-- **📱 Fully Responsive**: Optimized for all screen sizes (mobile, tablet, desktop)
-- **🛒 Shopping Cart**: Add items, update quantities, and manage your order
-- **🔍 Search Functionality**: Find your favorite dishes quickly
-- **📂 Category Filtering**: Browse by food categories (Burgers, Pizza, Sushi, etc.)
-- **⭐ Product Ratings**: See ratings for each dish
-- **💳 Checkout Flow**: Complete order process with delivery fee calculation
-- **🎭 Smooth Animations**: Fade-in, slide-in, and hover effects throughout
-- **🌈 Custom Design System**: Consistent colors, typography, and spacing
+- **Premium Design**: Modern UI with gradient backgrounds, glassmorphism effects, and smooth animations
+- ** Fully Responsive**: Optimized for all screen sizes (mobile, tablet, desktop)
+- ** Shopping Cart**: Add items, update quantities, and manage your order
+- ** Search Functionality**: Find your favorite dishes quickly
+- ** Category Filtering**: Browse by food categories (Burgers, Pizza, Sushi, etc.)
+- ** Product Ratings**: See ratings for each dish
+- ** Checkout Flow**: Complete order process with delivery fee calculation
+- ** Smooth Animations**: Fade-in, slide-in, and hover effects throughout
+- ** Custom Design System**: Consistent colors, typography, and spacing
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
